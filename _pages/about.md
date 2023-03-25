@@ -13,3 +13,5 @@ Hello! I’m a Ph.D. candidate in physics at the University of Michigan, in the 
 I am also interested in science communication, and am a workshop co-coordinator with Researchers Expanding Lay Audience Teaching and Engagement (RELATE), a Rackham Interdisciplinary Workshop at U-M.
 
 Outside of science, I enjoy playing classical piano and reading a large variety of books.
+
+Email: dbrobins@umich.edu

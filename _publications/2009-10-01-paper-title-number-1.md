@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Exploring the dependence of gas cooling and heating functions on the incident radiation field with Machine Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/ml_chf
+excerpt: 'Gas cooling and heating functions play a crucial role in galaxy formation. But, it is computationally expensive to exactly compute these functions in the presence of an incident radiation field. These computations can be greatly sped up by using interpolation tables of pre-computed values, at the expense of making significant and sometimes even unjustified approximations. Here, we explore the capacity of machine learning to approximate cooling and heating functions with a generalized radiation field. Specifically, we use the machine learning algorithm XGBoost to predict cooling and heating functions calculated with the photoionization code Cloudy at fixed metallicity, using different combinations of photoionization rates as features. We perform a constrained quadratic fit in metallicity to enable a fair comparison with traditional interpolation methods at arbitrary metallicity. We consider the relative importance of various photoionization rates through both a principal component analysis (PCA) and calculation of SHapley Additive exPlanation (SHAP) values for our XGBoost models. We use feature importance information to select different subsets of rates to use in model training. Our XGBoost models outperform a traditional interpolation approach at each fixed metallicity, regardless of feature selection. At arbitrary metallicity, we are able to reduce the frequency of the largest cooling and heating function errors compared to an interpolation table. We find that the primary bottleneck to increasing accuracy lies in accurately capturing the metallicity dependence. This study demonstrates the potential of machine learning methods such as XGBoost to capture the non-linear behavior of cooling and heating functions.'
+date: 2012-12-18
+venue: 'MNRAS'
+paperurl: 'https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad3880/7478000'
+citation: 'Robinson, David, Camille Avestruz, and Nickolay Y. Gnedin. “Exploring the Dependence of Gas Cooling and Heating Func-
+tions on the Incident Radiation Field with Machine Learning.” MNRAS (2023).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Gas cooling and heating functions play a crucial role in galaxy formation. But, it is computationally expensive to exactly compute these functions in the presence of an incident radiation field. These computations can be greatly sped up by using interpolation tables of pre-computed values, at the expense of making significant and sometimes even unjustified approximations. Here, we explore the capacity of machine learning to approximate cooling and heating functions with a generalized radiation field. Specifically, we use the machine learning algorithm XGBoost to predict cooling and heating functions calculated with the photoionization code Cloudy at fixed metallicity, using different combinations of photoionization rates as features. We perform a constrained quadratic fit in metallicity to enable a fair comparison with traditional interpolation methods at arbitrary metallicity. We consider the relative importance of various photoionization rates through both a principal component analysis (PCA) and calculation of SHapley Additive exPlanation (SHAP) values for our XGBoost models. We use feature importance information to select different subsets of rates to use in model training. Our XGBoost models outperform a traditional interpolation approach at each fixed metallicity, regardless of feature selection. At arbitrary metallicity, we are able to reduce the frequency of the largest cooling and heating function errors compared to an interpolation table. We find that the primary bottleneck to increasing accuracy lies in accurately capturing the metallicity dependence. This study demonstrates the potential of machine learning methods such as XGBoost to capture the non-linear behavior of cooling and heating functions.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad3880/7478000)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Robinson, David, Camille Avestruz, and Nickolay Y. Gnedin. “Exploring the Dependence of Gas Cooling and Heating Func-
+tions on the Incident Radiation Field with Machine Learning.” MNRAS (2023).

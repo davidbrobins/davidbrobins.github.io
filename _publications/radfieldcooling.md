@@ -6,6 +6,5 @@ excerpt: 'Abstract: Cooling and heating functions describe how radiative process
 date: 2022-08-30
 venue: 'ApJ'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ac85e1'
-citation: 'Robinson, David, Camille Avestruz, and Nickolay Y. Gnedin. “Can Cooling and Heating Functions be Modeled with Homo-
-geneous Radiation Fields?” <i>ApJ</i> 936 50 (2022).'
+citation: 'Robinson, David, Camille Avestruz, and Nickolay Y. Gnedin. “Can Cooling and Heating Functions be Modeled with Homogeneous Radiation Fields?” <i>ApJ</i> 936 50 (2022).'
 ---

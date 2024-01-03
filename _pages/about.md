@@ -16,4 +16,4 @@ I am also interested in science communication, and am a workshop co-coordinator 
 
 Outside of science, I am an avid fiction reader. I mostly gravitate towards science fiction and fantasy, but I enjoy historical fiction and mysteries as well. I enjoy playing classical piano, but my skills have deteriorated significantly in grad school now that I no longer take lessons. During pandemic lockdowns, I got into crossword puzzles, and try to do one a day.
 
-Email: dbrobins@umich.edu
+[Email](dbrobins@umich.edu)

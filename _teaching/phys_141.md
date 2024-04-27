@@ -1,7 +1,7 @@
 ---
 title: "Physics 141: Elementary Lab 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate lab"
 permalink: /teaching/phys_141
 venue: "University of Michigan, LSA Physics"
 date: 2019-09-01

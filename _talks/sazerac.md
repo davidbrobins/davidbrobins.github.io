@@ -9,3 +9,5 @@ location: "Virtual"
 ---
 
 <a href = 'https://www.youtube.com/watch?v=cTe1RtQKl_M&t=2755s&ab_channel=SAZERACConference'>Link to video</a>
+
+<a href = 'https://sazerac-conference.org/SIPS2122/1.html'>Conference website</a>

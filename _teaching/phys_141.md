@@ -4,7 +4,7 @@ collection: teaching
 type: "Introductory mechanics lab for scientists and engineers"
 permalink: /teaching/phys_141
 venue: "University of Michigan, LSA Physics"
-date: "Fall 2019, Winter 2021'
+date: 2019-09-01
 location: "Ann Arbor, MI"
 ---
 

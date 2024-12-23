@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ngc300
 excerpt: 'In this paper, we incorporate our machine learning approximation for gas cooling and heating functions into a hydrodynamic isolated galaxy simulation. We compare the gas thermodynamics across two runs of the simulation: one using our machine learning models to compute the atomic gas cooling and heating functions, and one using an interpolation table. We find that our machine learning model predicts systematically hotter low-density gas.'
 date: 2024-12-19
-venue: 'In revision at OJA'
+venue: 'OJA (submitted)'
 paperurl: 'https://arxiv.org/abs/2412.15324'
 citation: 'Robinson, David, Camille Avestruz, Nickolay Y. Gnedin, and Vadim A. Semenov. “The effects of different cooling and heating function models on a simulated analog of NGC300.” arXiv:2412.15324 (2024).'
 ---

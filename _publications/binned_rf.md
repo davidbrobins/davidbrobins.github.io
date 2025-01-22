@@ -6,5 +6,5 @@ excerpt: 'In this paper, we modify our previous implementation of XGBoost to app
 date: 2024-06-27
 venue: 'OJA (in revision)'
 paperurl: 'https://arxiv.org/abs/2406.19446'
-citation: 'Robinson, David, Camille Avestruz, and Nickolay Y. Gnedin. “On the minimum number of radiation field parameters to specify gas cooling and heating functions.” arXiv:2406.19446 (2024).'
+citation: '<b>Robinson, David</b>, Camille Avestruz, and Nickolay Y. Gnedin. “On the minimum number of radiation field parameters to specify gas cooling and heating functions.” arXiv:2406.19446 (2024).'
 ---

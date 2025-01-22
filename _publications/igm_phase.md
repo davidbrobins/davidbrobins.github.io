@@ -6,5 +6,5 @@ excerpt: 'In this paper, we explore the evolution of the phase diagram of low-de
 date: 2024-02-16
 venue: 'MNRAS'
 paperurl: 'https://academic.oup.com/mnras/article/528/4/5845/7602414'
-citation: 'Wells, Alexandra, **David Robinson**, Camille Avestruz, and Nickolay Y Gnedin. "Emergence of the temperature–density relation in the low-density intergalactic medium." <i>MNRAS</i> 528 4 (2024).'
+citation: 'Wells, Alexandra, <b>David Robinson</b>, Camille Avestruz, and Nickolay Y Gnedin. "Emergence of the temperature–density relation in the low-density intergalactic medium." <i>MNRAS</i> 528 4 (2024).'
 ---

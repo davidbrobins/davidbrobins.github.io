@@ -6,5 +6,5 @@ excerpt: 'In this paper, we use the machine learning algorithm XGBoost to approx
 date: 2024-01-16
 venue: 'MNRAS'
 paperurl: 'https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad3880/7478000'
-citation: 'Robinson, David, Camille Avestruz, and Nickolay Y. Gnedin. “Exploring the Dependence of Gas Cooling and Heating Functions on the Incident Radiation Field with Machine Learning.” <i>MNRAS</i> 528 1 (2024).'
+citation: '**Robinson, David**, Camille Avestruz, and Nickolay Y. Gnedin. “Exploring the Dependence of Gas Cooling and Heating Functions on the Incident Radiation Field with Machine Learning.” <i>MNRAS</i> 528 1 (2024).'
 ---

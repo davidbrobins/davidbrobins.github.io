@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Physics and Mathematics, with Highest Honors, Swarthmore College, 2019
-* Ph.D in Physics, University of Michigan, 2025 (expected)
+* Ph.D in Physics, University of Michigan, 2025
 
 Research Experience
 ======
-* Graduate Student Research Assistant (2020-present)
+* Graduate Student Research Assistant (2020-2025)
   * University of Michigan, LSA Physics
   * Topic: Leveraging machine learning and hydrodynamic simulations of galaxy formation to illuminate the effects of
 incident radiation fields on atomic gas cooling and heating functions
@@ -57,10 +57,16 @@ Teaching
 Service and leadership
 ======
 * Workshop Co-coordinator, <a href = 'https://www.learntorelate.org/'>Researchers Expanding Lay-Audience Teaching and Engagement</a> (RELATE, 2020-present)
+* Graduate Student Instructor, <a href = 'https://sites.lsa.umich.edu/mmss/'>Michigan Math and Science Scholars</a> (MMSS) course "Climbing the Distance Ladder to the Big Bang: How Astronomers Survey the Universe" (2025)
+
+Outreach talks
+======
+* <a href = 'https://annarbor.nerdnite.com/'>Ann Arbor Nerd Nite</a>, "How It's Made: Galaxies" (2024)
 
 Professional Development
 ======
-* <a href = 'https://crlt.umich.edu/um.gtc'>Graduate Teacher Certificate</a> program, University of Michigan Center for Research on Learning and Teaching (2019-present)
+* <a href = 'https://crlt.umich.edu/programs/pffseminar'>Preparing Future Faculty</a> seminar, University of Michigan Center for Research on Learning and Teaching (CRLT, 2025)
+* <a href = 'https://crlt.umich.edu/um.gtc'>Graduate Teacher Certificate</a> program, University of Michigan CRLT (2019-2025)
 * <a href = 'https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html'>Science Communication Fellows</a> program, University of Michigan Museum of Natural History (2023-2024)
 * <a href = 'https://johannesulf.github.io/cosmology-school-2023/'>Cosmology Summer School 2023</a>, University of Michigan 
 * <a href = 'https://galaxy-formation-meeting.org/'>Wide-Field Spectroscopy vs. Galaxy Formation Theory</a>, Biosphere 2 (2023)

@@ -61,7 +61,7 @@ Service and leadership
 
 Outreach talks
 ======
-* <a href = 'https://annarbor.nerdnite.com/'>Ann Arbor Nerd Nite</a>, "How It's Made: Galaxies" (2024)
+* <a href = 'https://annarbor.nerdnite.com/'>Ann Arbor Nerd Nite</a>, <a href = 'https://www.youtube.com/live/GgL_qnFrjjk?si=M1ms1qAnxhN9wJFe&t=438'>"How It's Made: Galaxies"</a> (2024)
 
 Professional Development
 ======

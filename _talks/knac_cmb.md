@@ -7,3 +7,4 @@ venue: "KNAC Student Research Symposium"
 date: 2017-10-21
 location: "Colgate University, NY"
 ---
+With Davy Qi

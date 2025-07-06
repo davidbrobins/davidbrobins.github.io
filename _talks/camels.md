@@ -7,4 +7,4 @@ venue: "Cosmology and galaxy astrophysics with simulations and machine learning 
 date: 2024-12-11
 location: "CCA, New York, NY"
 ---
-<a href = 'https://www.simonsfoundation.org/event/cosmology-and-galaxy-astrophysics-with-simulations-and-machine-learning-2024/'>Conference website</a>
+<a href = 'https://www.simonsfoundation.org/event/cosmology-and-galaxy-astrophysics-with-simulations-and-machine-learning-2024/'>Conference website</a> (video in "Cosmology and Galaxy Astrophysics with Simulations and Machine Learning | Day 3 Session 4: Matthew Gebhardt, Weiguant Cui, Xavier Sims, Patricia Iglesias Navarro, David Robinson")

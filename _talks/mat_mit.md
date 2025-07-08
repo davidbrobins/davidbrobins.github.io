@@ -1,9 +1,9 @@
 ---
 title: "Cooling and heating functions with Machine Learning"
 collection: talks
-type: "Monday Afternoon Talk"
+type: "Seminar talk"
 permalink: /talks/mat_mit
-venue: "MIT"
+venue: "MIT Kavli Institute Monday Afternoon Talks"
 date: 2024-12-16
 location: "Cambridge, MA"
 ---

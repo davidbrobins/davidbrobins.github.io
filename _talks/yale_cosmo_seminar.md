@@ -1,9 +1,9 @@
 ---
 title: "Connecting Cooling to the Incident Radiation Field with Machine Learning"
 collection: talks
-type: "Yale Cosmology Seminar"
+type: "Seminar talk"
 permalink: /talks/yale_cosmo_seminar
-venue: "Yale Department of Astronomy"
+venue: "Yale Cosmology Seminar"
 date: 2024-10-24
 location: "New Haven, CT"
 ---

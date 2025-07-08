@@ -2,7 +2,7 @@
 title: "Do cooling and heating functions actually exist?"
 collection: talks
 type: "E-poster"
-permalink: /talks/ngr.md
+permalink: /talks/ngr
 venue: "Galaxy Formation and Evolution in the Era of the Nancy Grace Roman Space Telescope Conference"
 date: 2020-10-5
 location: "Virtual"

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/astro_107
 venue: "University of Michigan, LSA Astronomy"
-date: 2020-09-01
+date: 2020
 location: "Ann Arbor, MI"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Illuminating galaxy cooling and heating with machine learning"
 collection: talks
-type: "Colloquium"
+type: "Department colloquium"
 permalink: /talks/swat_coll
 venue: "Swarthmore College Department of Physics and Astronomy"
 date: 2025-03-28

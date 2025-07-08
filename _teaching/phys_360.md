@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/phys_360
 venue: "University of Michigan, LSA Physics"
-date: 2021-09-01
+date: 2021-2022
 location: "Ann Arbor, MI"
 ---
 

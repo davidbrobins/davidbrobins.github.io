@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate lab"
 permalink: /teaching/phys_141
 venue: "University of Michigan, LSA Physics"
-date: 2019-2021
+date: Fall 2019, Winter 2021
 location: "Ann Arbor, MI"
 ---
 

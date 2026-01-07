@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "David Robinson"
   avatar           : "dbrobins_headshot.png"
-  bio              : "Physics Ph.D. Candidate"
-  location         : "University of Michigan"
+  bio              : "Shimu Fellow"
+  location         : "Tsinghua University, Department of Astronomy"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "dbrobins@umich.edu"
+  email            : "drobinson@mail.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
